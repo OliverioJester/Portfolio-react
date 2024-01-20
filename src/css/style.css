@@ -46,7 +46,7 @@
 }
 
 .bg_image{
-    background-image: url('images/charcoal.jpg')!important;
+    background-image: url('./images/charcoal.jpg')!important;
     background-repeat: no-repeat!important;
     background-attachment: fixed!important;
     background-size: 100% 100%!important;
