@@ -19,8 +19,10 @@ function Home() {
         <Container fluid>
         <Row xs="auto" className="container justify-content-md-center">
           <Col xs={10}>
-          <div className=' mt-5 text-light'><span className='h2'>Lorem ipsum dolor sit,</span> <span className='h1 text-warning'>amet consectetur adipisicing elit.</span> 
-              <p>Aliquid accusamus nam delectus omnis minus quibusdam harum consequuntur, asperiores veniam corrupti nihil maiores. Laudantium praesentium nemo architecto animi, odit deleniti illo. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste maiores quam vitae quasi minima repellat ullam incidunt assumenda tempore eveniet tempora, optio ex harum quo quaerat voluptas ut consectetur praesentium.</p>
+          <div className=' mt-5 text-light'><span className='h2'>Capture Life's Moments in Perfect Pixels,</span> <span className='h1 text-warning'>Elevate Your Memories with Our Stunning Photography Services.</span> 
+              <p>
+              Professional, Passionate, and Picture-Perfect – Because Every Click Counts. Unleash the Power of Visual Storytelling. Freeze Time with Our Expert Photography. From Candid to Captivating, We Frame Your World. Your Moments, Our Expertise – Turning Ordinary into Extraordinary. Click, Smile, Repeat – Your Journey through a Lens of Excellence. Let Us Paint Your Story in Every Frame. Cherish the Now, Forever. Book Your Session Today
+              </p>
           </div>
           </Col>
  
@@ -49,7 +51,10 @@ function Home() {
             className='mb-5 border border-5 border-light'
             style={{ width: '440px', height: '450px' }}/>   
           </Col>
-          <Col> <p><b>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias ducimus magni nemo odio libero eveniet? Praesentium, distinctio aliquam blanditiis enim voluptas ipsum maxime magni dignissimos voluptate qui reprehenderit rerum! Sit.</b></p></Col>
+          <Col>
+            <p><b>
+            Unlock the Magic of Memories with Our Artistry Behind the Lens. Timeless Elegance, Captured Just for You. Where Every Snapshot is a Work of Heart. Experience Photography Redefined – Where Passion Meets Precision.
+            </b></p></Col>
         </Row>
 
         </Container> 
@@ -64,7 +69,7 @@ function Home() {
         </Row>
         <Row className="mb-3">
           <Col>
-            <p className='mt-3'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore illo nam quibusdam quisquam aut. Vero sunt aliquam fugit eaque illo nihil libero totam. Quisquam, obcaecati! Neque delectus nisi necessitatibus veniam.s</p>
+            <p className='mt-3'>To capture the best photo, focus on framing your subject with attention to lighting, composition, and details, while embracing unique perspectives and patiently waiting for genuine moments to unfold.</p>
           </Col>
         </Row>
  
@@ -76,7 +81,7 @@ function Home() {
                   className=''
                   style={{ width: '50px', height: '50px' }}/> 
                 <h5 className='mt-3 mb-3'>STEP 1</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur excepturi maxime consectetur. Fugit dolores fuga dolor perspiciatis amet totam. Laudantium expedita inventore sint culpa, veniam commodi sapiente saepe quaerat magni?</p>
+                <p>Find the Right Lighting: Seek natural light for a soft, flattering effect. Avoid harsh midday sun and experiment with morning or evening light for more dimension.</p>
                 </div>
               </div>
             </Col>
@@ -94,7 +99,7 @@ function Home() {
                   className=''
                   style={{ width: '50px', height: '50px' }}/> 
                    <h5 className='mt-3 mb-3'>STEP 2</h5>
-                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur excepturi maxime consectetur. Fugit dolores fuga dolor perspiciatis amet totam. Laudantium expedita inventore sint culpa, veniam commodi sapiente saepe quaerat magni?</p>
+                   <p>Composition is Key: Frame your subject thoughtfully using the rule of thirds. Create interest with angles and perspectives; consider foreground and background elements.</p>
                 </div>
               </div>            
             </Col>
@@ -112,7 +117,7 @@ function Home() {
                   className=''
                   style={{ width: '50px', height: '50px' }}/> 
                    <h5 className='mt-3 mb-3'>STEP 3</h5>
-                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur excepturi maxime consectetur. Fugit dolores fuga dolor perspiciatis amet totam. Laudantium expedita inventore sint culpa, veniam commodi sapiente saepe quaerat magni?</p>                  
+                   <p>Focus on Details: Pay attention to sharpness and clarity. Use your camera's autofocus feature or manually focus to ensure your subject is crisp and well-defined.</p>                  
                 </div>
               </div>               
             </Col>
@@ -130,7 +135,7 @@ function Home() {
                   className=''
                   style={{ width: '50px', height: '50px' }}/> 
                    <h5 className='mt-3 mb-3'>STEP 4</h5>
-                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur excepturi maxime consectetur. Fugit dolores fuga dolor perspiciatis amet totam. Laudantium expedita inventore sint culpa, veniam commodi sapiente saepe quaerat magni?</p>                  
+                   <p>Capture Genuine Moments: Encourage natural expressions and candid interactions. Be patient and ready to click when authentic emotions unfold, resulting in a photo that tells a compelling story.</p>                  
                 </div>
               </div>               
             </Col>
@@ -145,7 +150,7 @@ function Home() {
           <Row className='text-light'>
             <Col className='mt-5' >
             <h4>John Lester R. Oliverio</h4>
-           " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi necessitatibus doloremque, iure at id repellendus qui tempore ad, sint sit dolorum asperiores. Rerum aliquid eum commodi, ullam recusandae est neque."
+            "In every photograph, there's a story waiting to be told. Capture the essence, freeze the moment, and let the image speak for itself."
 
             </Col>
             <Col className='mt-5 text-center '>
@@ -161,7 +166,7 @@ function Home() {
             <Col >
             <div className='d-block position-sticky sentence1 mt-5'>
               <h4 >Stephielle Princess Madrid</h4>
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus atque incidunt odit, libero ipsum fuga? Ea, eos est omnis possimus qui sapiente exercitationem, voluptates dicta debitis eum reiciendis amet enim?"               
+              "Photography is not just about capturing smiles; it's about preserving the emotions, the soul of the moment, in every frame."               
             </div>
             </Col>
           </Row>
@@ -190,15 +195,15 @@ function Home() {
                 </thead>
               </Table>
               <h5 className='mb-4'>
-                WE DWELLING ELEGANCE DO SHUTTERS <br /> APPETITE YOURSELF DIVERTED.
+              "HARMONIZING VISION AND EXPERTISE: <br />MANAGING AND PERFECTING PHOTOGRAPHY WITH OUR DYNAMIC TEAM."
               </h5>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores aliquam et ipsam. Totam, repudiandae? Dicta quas maiores, veritatis necessitatibus eaque libero cum sapiente, reiciendis eos aliquam incidunt dolor molestias sint?Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores aliquam et ipsam. Totam, repudiandae? Dicta quas maiores, veritatis necessitatibus eaque libero cum sapiente, reiciendis eos aliquam incidunt dolor molestias sint?</p>
+              <p>To manage and perfect the art of photography with my team, we collaborate seamlessly, leveraging each member's strengths, communicating effectively, and embracing a shared vision, ensuring that every shot we capture reflects our collective passion and expertise.</p>
           </Col>
         </Row>
         <Row className="text-black">
         <Col className='mt-5' >
-            <h4>John Lester R. Oliverio</h4>
-           " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi necessitatibus doloremque, iure at id repellendus qui tempore ad, sint sit dolorum asperiores. Rerum aliquid eum commodi, ullam recusandae est neque."
+        <h4 >Stephielle Princess Madrid</h4>
+            "Through the lens, discover the extraordinary in the ordinary. A great photo is not just taken; it's crafted with a keen eye and a heart that sees beauty in everything."
 
             </Col>
             <Col className='mt-5 text-center'>
@@ -219,8 +224,8 @@ function Home() {
             </Col>
             <Col >
             <div className='d-block position-sticky sentence1 mt-5'>
-              <h4 >Stephielle Princess Madrid</h4>
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus atque incidunt odit, libero ipsum fuga? Ea, eos est omnis possimus qui sapiente exercitationem, voluptates dicta debitis eum reiciendis amet enim?"               
+            <h4>John Lester R. Oliverio</h4>
+              "Photography is the art of making the ordinary extraordinary. Let your lens be the storyteller, and every click, a chapter in the visual novel of life."               
             </div>
             </Col>
         </Row>
@@ -237,40 +242,22 @@ function Home() {
               </h1>
               <Accordion>
       <Accordion.Item eventKey="0" >
-        <Accordion.Header>WHO IS JOHN LESTER R. OLIVERIO?</Accordion.Header>
+        <Accordion.Header>"WHAT INSPIRED YOU TO CAPTURE THIS PARTICULAR MOMENT OR SUBJECT IN YOUR PHOTOGRAPHY?"</Accordion.Header>
 
         <Accordion.Body >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
+        "I was inspired to capture this moment by the play of light and shadow, creating a captivating atmosphere that beautifully highlighted the subject's emotion and the surrounding environment."
         </Accordion.Body>
       </Accordion.Item>
       <Accordion.Item eventKey="1">
-        <Accordion.Header>IS ORAL SEX NOT VEGAN?</Accordion.Header>
+        <Accordion.Header>"HOW DO YOU APPROACH THE TECHNICAL ASPECTS OF PHOTOGRAPHY, SUCH AS LIGHTING AND COMPOSITION, TO ACHIEVE YOUR DESIRED VISUAL IMPACT?</Accordion.Header>
         <Accordion.Body>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
+        "I approach the technical aspects of photography meticulously, paying careful attention to natural lighting, experimenting with different angles, and framing the shot using the rule of thirds to ensure a visually striking and well-composed image."
         </Accordion.Body>
       </Accordion.Item>
       <Accordion.Item eventKey="2">
-        <Accordion.Header>WOULD VEGANS EAT ME IF THEY BECAME ZOMBIES?</Accordion.Header>
+        <Accordion.Header>"CAN YOU SHARE A MEMORABLE EXPERIENCE OR STORY BEHIND ONE OF YOUR FAVORITE PHOTOS, HIGHLIGHTING THE CREATIVE PROCESS OR CHALLENGES YOU OVERCAME?"</Accordion.Header>
         <Accordion.Body>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
+        "One of my favorite photos was taken during a spontaneous street photography session. The challenge was to capture authentic expressions amidst the bustling cityscape. The memorable experience came when I seized a fleeting moment of connection between strangers, turning a seemingly ordinary scene into a powerful narrative through the lens."
         </Accordion.Body>
       </Accordion.Item>
     </Accordion>

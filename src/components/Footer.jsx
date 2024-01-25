@@ -15,7 +15,7 @@ function Footer() {
         <Link to={'/contact'} className='text-light link-warning link-underline-opacity-0 ms-5  me-5'  >Contact</Link>
         </p> 
         <br />
-        <p className='text-light pb-5'>My prototype portfolio website but still not done yet.<br /> Thank you for visiting</p>
+        <p className='text-light pb-5'><span className=''>Created by John Lester R. Oliverio </span><br /> Thank you for visiting</p>
         {/* </Container> */}
       </Container>
     </div>

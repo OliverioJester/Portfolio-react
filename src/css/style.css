@@ -46,7 +46,7 @@
 }
 
 .bg_image{
-    background-image: url('public/images/charcoal.jpg')!important;
+    background-image: url('/images/charcoal.jpg')!important;
     background-repeat: no-repeat!important;
     background-attachment: fixed!important;
     background-size: 100% 100%!important;
@@ -69,4 +69,13 @@
 .footer{
     /* background-color: rgb(51, 50, 50); */
     margin-bottom: -20px!important;
+}
+
+.fontfamily{
+    font-family: "Times New Roman", Times, serif;
+}
+
+.carosel{
+    height: 300px!important;
+
 }
